@@ -2,6 +2,7 @@
   profiles:
     active:
       - dev
+      #哈哈哈
 ---
 spring:
   profiles: dev
