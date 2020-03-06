@@ -2,7 +2,7 @@
   profiles:
     active:
       - dev
-      #哈哈哈
+
 ---
 spring:
   profiles: dev
@@ -15,4 +15,3 @@ spring:
     name: microservicecloud-config-atguigu-test
 #保存为UTF-8格式
 
-#注意
