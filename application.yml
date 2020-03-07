@@ -1,6 +1,18 @@
-﻿
+spring:
+  profiles:
+    active:
+      - dev
+
+---
+spring:
+  profiles: dev
+  application:
+    name: microservicecloud-config-atguigu-dev
+---
+spring:
+  profiles: test
+  application:
+    name: microservicecloud-config-atguigu-test
+#注意保存为UTF-8格式 
 
 
-
-#科技路附近SDK舒服多了德生科技发链接多斯拉克发多少六氟化硫的时间里看电视剧福克斯来得及发
-#松岛枫葫芦岛市会计分录快速搭建 
