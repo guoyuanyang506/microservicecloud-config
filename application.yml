@@ -3,6 +3,7 @@
     active:
       - dev
 
+
 ---
 spring:
   profiles: dev
@@ -13,6 +14,7 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-atguigu-test
+
 
 
 #科技路附近SDK舒服多了德生科技发链接多斯拉克
